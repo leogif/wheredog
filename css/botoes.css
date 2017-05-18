@@ -1,0 +1,14 @@
+#painelBotoes {
+	text-align: center;
+	padding: 100px 0;
+}
+
+#secao {
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+	background: #3498db;
+	color: #ecf0f1;
+	text-align: center;
+}
